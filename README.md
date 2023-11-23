@@ -1,6 +1,7 @@
 # Flappy Bird AI Project (2022)
 
 ![Language](https://img.shields.io/badge/Language-Python-f2cb1b)
+![Libraries](https://img.shields.io/badge/Libraries-Pygame-blue)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This project involves creating an AI that learns to play Flappy Bird using a neural network with a simple architecture. The game is coded from scratch, and the sprites are taken from the original Flappy Bird game.
